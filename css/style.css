@@ -362,7 +362,7 @@ button {
     /* padding: 120px 0px; */
 }
 
-.about_taital {
+.about_taital, .produk {
     width: 100%;
     float: left;
     font-size: 40px;
@@ -372,10 +372,10 @@ button {
 }
 
 
-.about_text {
+.about_text{
     width: 100%;
     float: left;
-    font-size: 20px;
+    font-size: 22px;
     font-weight: 100;
     color: #292923;
     margin: 0px;
@@ -428,15 +428,6 @@ button {
     justify-content: space-between;
 }
 
-.produk{
-    font-size: 40px;
-    color: #330846;
-}
-.produkk{
-    font-size: 25px;
-    color: #330846;
-}
-
 .gallery_text {
     width: 100%;
     float: left;
@@ -450,7 +441,7 @@ button {
 .gallery_section_2 {
     width: 100%;
     float: left;
-    padding-top: 50px;
+    padding: 50px;
 }
 
 .h6{
@@ -552,7 +543,7 @@ a:hover {
     background-attachment: fixed;
 }
 
-.services_taital {
+.services_taital{
     width: 100%;
     float: left;
     font-size: 40px;
@@ -675,10 +666,7 @@ a:hover {
 /* services section end */
 
 /* kegiatan*/
-.kegiatan{
-    color: #330846;
-    font-size: 40px;
-}
+
 .kegiatann{
     color: #330846;
     font-size: 25px;
